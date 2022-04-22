@@ -1,0 +1,9 @@
+# Folders
+*.vscode/
+*__pycache__/
+
+# Filetypes
+*.pyc
+
+# Specific files
+*.DS_Store
