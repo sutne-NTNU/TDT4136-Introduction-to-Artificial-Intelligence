@@ -21,3 +21,9 @@ The subject starts with a description of problem solving methods by means of heu
 
 ### Competence
 Know AI's basis taken from logic and cognitive sciences.
+
+# Highlights
+
+## Visualized A-Star From Assignment 2
+
+![A-Star visualization](02%20-%20Applying%20the%20A-Star%20Algorithm/videos/task_4/visited.gif)
